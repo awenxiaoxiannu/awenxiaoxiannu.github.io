@@ -121,3 +121,8 @@
         transform: translateY(-900px) rotate(600deg);
     }
 }
+
+#name-text {
+    display: none;
+    font-size: 35px;
+}

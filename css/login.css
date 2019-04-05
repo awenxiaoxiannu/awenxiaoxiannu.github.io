@@ -1,3 +1,4 @@
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -56,6 +57,12 @@ body :-ms-input-placeholder {
 }
 
 .wrapper.form-success .container h1 {
+    -webkit-transform: translateY(85px);
+    -ms-transform: translateY(85px);
+    transform: translateY(85px);
+}
+
+.wrapper.form-success .container p {
     -webkit-transform: translateY(85px);
     -ms-transform: translateY(85px);
     transform: translateY(85px);
